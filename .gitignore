@@ -1,0 +1,11 @@
+# Build output
+Debug/
+
+# STM32CubeIDE settings
+.settings/
+
+# Build artifacts
+*.elf
+*.hex
+*.bin
+*.map
